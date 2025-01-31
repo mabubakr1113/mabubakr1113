@@ -38,3 +38,9 @@
 ## 🎤 Fun Fact  
 - I love **public speaking** and sharing knowledge about software development trends.  
 - When I’m not coding, I enjoy **reading tech blogs**, exploring new technologies, and brainstorming **side projects**.  
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abubakr1113/) 
+
+
