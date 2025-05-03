@@ -3,7 +3,7 @@
 
 🌍 I am a graduate studies student at [Turun Yliopisto](https://www.utu.fi) focused in Software Engineering domain.  
 
-👨‍💻 Expertise in **React**, **Next.js**, **Ruby on Rails**, **GoLang**, **AWS**, and **Blockchain**.  
+👨‍💻 Expertise in **React**, **Next.js**, **Ruby on Rails**, **Node.js**, **Express.js**, **GoLang**, **AWS**, and **Blockchain**.  
 
 🌟 With a strong interest in **blockchain technology**, I’ve explored its potential through projects like **NFT Marketplace**, integrating decentralized systems with modern web technologies.  
 
