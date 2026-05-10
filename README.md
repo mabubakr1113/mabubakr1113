@@ -11,12 +11,6 @@
 
 
 
-## 📬 Contact Me  
-- Reach me via [email](mailto:m.abubakr3758@gmail.com).  
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/abubakr1113/).   
-
----
-
 ## 💡 What I’m Passionate About  
 - Building modern, scalable web applications with **React/Next.js**.   
 - Developing **user-friendly and high-performance software solutions**.  
