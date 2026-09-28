@@ -52,8 +52,16 @@ I'm building [**Settlance**](https://settlance.com), a payment-safety index and 
 
 **Blockchain**
 
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=base&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethers&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-FFC517?style=flat-square&logo=viem&logoColor=black)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
 
 **Data & infrastructure**
 
