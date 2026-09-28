@@ -1,8 +1,8 @@
 # Mohammad Abubakr
 
-**Full Stack Developer** — building scalable, user-centric web applications.
+**Full Stack Developer** building scalable, user-centric web applications.
 
-📍 Turku, Finland &nbsp;·&nbsp; 🌐 [mabubakr.dev](https://mabubakr.dev)
+📍 Turku, Finland &nbsp;|&nbsp; 🌐 [mabubakr.dev](https://mabubakr.dev)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mabubakr.dev-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mabubakr.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-mabubakr1113-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabubakr1113)
@@ -11,9 +11,13 @@
 
 ## About
 
-Full-stack developer focused on **React**, **Next.js**, and **TypeScript**. I turn ideas into clean, maintainable, high-performance products — from polished frontends to scalable backends and blockchain integrations.
+Full-stack developer focused on **React**, **Next.js**, and **TypeScript**. I turn ideas into clean, maintainable, high-performance products, from polished frontends to scalable backends and blockchain integrations.
 
 I'm a graduate student in Software Engineering at [Turun Yliopisto](https://www.utu.fi), and previously contributed to the developer community as a **Microsoft Learn Student Ambassador**.
+
+## Settlance
+
+I'm building [**Settlance**](https://settlance.com), a payment-safety index and pre-payment primitive layer for Base native USDC. It indexes the full Base USDC transfer graph and surfaces trust signals, blacklist state, and on-chain coverage so a payment can be checked before it settles.
 
 ## Currently
 
@@ -62,9 +66,9 @@ I'm a graduate student in Software Engineering at [Turun Yliopisto](https://www.
 
 ## Featured projects
 
-- **[apptly](https://github.com/mabubakr1113/apptly)** — AI-assisted autofill, CV tailoring, and tracking for job applications.
-- **[token-standards-formal-verification](https://github.com/mabubakr1113/token-standards-formal-verification)** — formal verification of token standards.
-- **[portfolio](https://github.com/mabubakr1113/portfolio)** — the site behind [mabubakr.dev](https://mabubakr.dev).
+- **[apptly](https://github.com/mabubakr1113/apptly)**: AI-assisted autofill, CV tailoring, and tracking for job applications.
+- **[token-standards-formal-verification](https://github.com/mabubakr1113/token-standards-formal-verification)**: formal verification of token standards.
+- **[portfolio](https://github.com/mabubakr1113/portfolio)**: the site behind [mabubakr.dev](https://mabubakr.dev).
 
 ## GitHub stats
 
